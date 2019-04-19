@@ -1,7 +1,7 @@
 PATH
   remote: ../devise-verifiable
   specs:
-    devise-verifiable (0.0.3)
+    devise-verifiable (1.0.0)
       devise (~> 4.4)
 
 GEM
